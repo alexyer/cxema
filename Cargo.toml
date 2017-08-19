@@ -1,6 +1,11 @@
 [package]
-name = "rust"
+name = "cxema"
 version = "0.1.0"
 authors = ["alexyer"]
+description = "Yet another rust crypto library. Just for lulz."
+homepage = "https://github.com/alexyer/cxema"
+repository = "https://github.com/alexyer/cxema"
+keywords = ["crypto", "sha1"]
+license = "MIT/Apache-2.0"
 
 [dependencies]
