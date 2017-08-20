@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/alexyer/cxema.svg?branch=master)](https://travis-ci.org/alexyer/cxema)
+
 # Cxema
 Cxema (/ˈskiːmə/) is yet another crypto library written in Rust.
 
