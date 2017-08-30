@@ -7,8 +7,15 @@ homepage = "https://github.com/alexyer/cxema"
 repository = "https://github.com/alexyer/cxema"
 keywords = ["crypto", "sha1"]
 license = "MIT/Apache-2.0"
+build = "build.rs"
 
 [badges]
 travis-ci = { repository = "alexyer/cxema", branch = "master"}
 
 [dependencies]
+
+[build-dependencies]
+rustc_version = "0.1.*"
+
+[features]
+nightly = []
